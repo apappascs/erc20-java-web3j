@@ -1,3 +1,18 @@
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fapappascs%2Ferc20-java-web3j">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.idx.dev/btn/open_dark_32.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.idx.dev/btn/open_light_32.svg">
+    <img
+      height="32"
+      alt="Open in IDX"
+      src="https://cdn.idx.dev/btn/open_purple_32.svg">
+  </picture>
+</a>
+
 # ERC-20 Java Web3j Service
 This Java service utilizes [Web3j](https://web3j.io) to manage [ERC-20](https://eips.ethereum.org/EIPS/eip-20) tokens on the Ethereum network. Web3j is a Java implementation of the Web3 library, which allows for interaction with Ethereum nodes using various methods such as JSON-RPC, HTTP, WebSockets, and IPC. It is a type-safe and reactive library that simplifies working with smart contracts and integrating with Ethereum clients. Using this service, you can easily work with the Ethereum blockchain without the need to write integration code.
 
